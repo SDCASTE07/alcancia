@@ -163,7 +163,7 @@ public class Eleccion {
                     break;
 
                 case 7:
-                    System.out.println("DE TODAS MANERAS SE SELECCIONARA COMO ALACALDE8 AL CANDIDATO CON EL MAYOR NUMERO DE VOTOS");
+                    System.out.println("DE TODAS MANERAS SE SELECCIONARA COMO ALACALDE AL CANDIDATO CON EL MAYOR NUMERO DE VOTOS");
                     break;
 
                 default:
