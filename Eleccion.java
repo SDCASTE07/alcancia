@@ -38,7 +38,7 @@ public class Eleccion {
             System.out.println("\n 4. Conocer el número total de votos para los candidatos en las elecciones ");
             System.out.println("\n 5. Porcentaje de votos obtenidos por cada candidato");
             System.out.println("\n 6. Costo promedio de campaña en las elecciones");
-            System.out.println("\n 7. Anular voto");
+            System.out.println("\n 7. Se quiere salir y anular voto");
             System.out.print("Seleccione la opción que desea ejecutar: ");
             opcion = scanner.nextInt();
 
@@ -165,7 +165,6 @@ public class Eleccion {
                 case 7:
                     System.out.println("DE TODAS MANERAS SE SELECCIONARA COMO ALACALDE AL CANDIDATO CON EL MAYOR NUMERO DE VOTOS");
                     break;
-
                 default:
                     System.out.println("Opción no válida.");
                     break;
