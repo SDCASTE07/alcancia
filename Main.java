@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Ejercicio desarrollado por Sergio Daniel Castellanos Rodrigue
 public class Main {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
@@ -83,3 +83,4 @@ public class Main {
         } while (op != 5);
     }
 }
+// Ejercicio desarrollado por Sergio Daniel Castellanos Rodrigue

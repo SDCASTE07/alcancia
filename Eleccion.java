@@ -1,4 +1,4 @@
-
+// Ejercicio desarrollado por Sergio Daniel Castellanos Rodriguez
 import java.util.Scanner;
 
 public class Eleccion {
@@ -174,3 +174,4 @@ public class Eleccion {
         scanner.close();
     }
 }
+// Ejercicio desarrollado por Sergio Daniel Castellanos Rodrigue
